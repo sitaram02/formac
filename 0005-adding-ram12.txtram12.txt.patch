@@ -1,0 +1,21 @@
+From 4018877528edf8437cb4dd514f5dc6d172248ac4 Mon Sep 17 00:00:00 2001
+From: ram <sitaramganesh@gmail.com>
+Date: Mon, 17 Sep 2018 06:17:03 -0700
+Subject: [PATCH 5/5] adding ram12.txtram12.txt
+
+---
+ ram12.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 ram12.txt
+
+diff --git a/ram12.txt b/ram12.txt
+new file mode 100644
+index 0000000..ea28760
+--- /dev/null
++++ b/ram12.txt
+@@ -0,0 +1 @@
++hi  amma
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+

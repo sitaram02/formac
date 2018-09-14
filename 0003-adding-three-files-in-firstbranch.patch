@@ -1,0 +1,46 @@
+From f7452e7241da797a41e1dfd58bcea4eed4d3e7b5 Mon Sep 17 00:00:00 2001
+From: ram <sitaramganesh@gmail.com>
+Date: Fri, 14 Sep 2018 10:49:45 -0700
+Subject: [PATCH 3/5] adding three files in firstbranch
+
+---
+ ram4.txt                   | 1 +
+ ram4.txt ram5.txt ram6.txt | 0
+ ram5.txt                   | 1 +
+ ram6.txt                   | 1 +
+ 4 files changed, 3 insertions(+)
+ create mode 100644 ram4.txt
+ delete mode 100644 ram4.txt ram5.txt ram6.txt
+ create mode 100644 ram5.txt
+ create mode 100644 ram6.txt
+
+diff --git a/ram4.txt b/ram4.txt
+new file mode 100644
+index 0000000..b6fc4c6
+--- /dev/null
++++ b/ram4.txt
+@@ -0,0 +1 @@
++hello
+\ No newline at end of file
+diff --git a/ram4.txt ram5.txt ram6.txt b/ram4.txt ram5.txt ram6.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/ram5.txt b/ram5.txt
+new file mode 100644
+index 0000000..1e0a6d9
+--- /dev/null
++++ b/ram5.txt
+@@ -0,0 +1 @@
++what the
+\ No newline at end of file
+diff --git a/ram6.txt b/ram6.txt
+new file mode 100644
+index 0000000..47e477f
+--- /dev/null
++++ b/ram6.txt
+@@ -0,0 +1 @@
++who the hell are
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+
