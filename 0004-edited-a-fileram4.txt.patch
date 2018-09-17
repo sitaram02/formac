@@ -1,0 +1,22 @@
+From dd2f4c38c8cf1e127b688beda383292734082b5b Mon Sep 17 00:00:00 2001
+From: ram <sitaramganesh@gmail.com>
+Date: Fri, 14 Sep 2018 11:23:44 -0700
+Subject: [PATCH 4/5] edited a fileram4.txt
+
+---
+ ram4.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/ram4.txt b/ram4.txt
+index b6fc4c6..ca7ffcc 100644
+--- a/ram4.txt
++++ b/ram4.txt
+@@ -1 +1,2 @@
+-hello
+\ No newline at end of file
++hello
++who r u
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+
